@@ -1,0 +1,33 @@
+Rk,Team,W,L,ORtg,DRtg,NRtg
+,,,,,,
+1,Milwaukee Bucks*,53,12,112.6,101.9,+10.7
+2,Los Angeles Lakers*,49,14,113.0,105.6,+7.4
+3,Los Angeles Clippers,44,20,113.6,107.2,+6.4
+4,Toronto Raptors*,46,18,111.6,105.2,+6.4
+5,Dallas Mavericks,40,27,116.7,110.6,+6.1
+6,Boston Celtics*,43,21,112.9,106.8,+6.1
+7,Houston Rockets,40,24,113.8,110.2,+3.6
+8,Utah Jazz,41,23,112.6,109.4,+3.2
+9,Denver Nuggets,43,22,112.5,109.5,+3.0
+10,Oklahoma City Thunder,40,24,111.6,109.1,+2.5
+11,Miami Heat,41,24,112.7,109.4,+3.3
+12,Philadelphia 76ers,39,26,110.4,108.2,+2.2
+13,Indiana Pacers,39,26,110.3,108.3,+2.0
+14,New Orleans Pelicans,28,36,110.8,111.6,-0.8
+15,Orlando Magic,30,35,108.0,109.0,-1.0
+16,Phoenix Suns,26,39,110.5,111.8,-1.3
+17,Memphis Grizzlies,32,33,109.4,110.4,-1.0
+18,Portland Trail Blazers,29,37,112.5,114.1,-1.6
+19,Brooklyn Nets,30,34,108.1,108.7,-0.6
+20,San Antonio Spurs,27,36,111.9,113.7,-1.8
+21,Sacramento Kings,28,36,109.7,111.6,-1.9
+22,Minnesota Timberwolves,19,45,108.1,112.2,-4.1
+23,Chicago Bulls,22,43,106.7,109.8,-3.1
+24,Detroit Pistons,20,46,109.0,112.7,-3.7
+25,Washington Wizards,24,40,111.9,115.8,-3.9
+26,New York Knicks,21,45,106.5,113.0,-6.5
+27,Charlotte Hornets,23,42,106.3,113.3,-7.0
+28,Atlanta Hawks,20,47,107.2,114.8,-7.6
+29,Cleveland Cavaliers,19,46,107.5,115.4,-7.9
+30,Golden State Warriors,15,50,105.2,113.8,-8.6
+,League Average,,,110.4,110.4,
